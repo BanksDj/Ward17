@@ -1,0 +1,1 @@
+var json_Zvishamiso_18 = {"type":"FeatureCollection","name":"Zvishamiso_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"x":32.69082,"y":-19.80494,"Name":"Zvishamiso Garden ","Description":null},"geometry":{"type":"Point","coordinates":[32.6908151,-19.8049353]}}]}
